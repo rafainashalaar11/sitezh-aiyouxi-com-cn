@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rafainashalaar11.github.io/sitezh-aiyouxi-com-cn/sitemap.xml
